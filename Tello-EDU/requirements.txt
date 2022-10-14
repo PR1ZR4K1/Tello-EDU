@@ -1,0 +1,3 @@
+pip install cv2
+pip instal djitellopy
+pip install pygame
